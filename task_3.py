@@ -1,0 +1,7 @@
+name = input("Input name: ")
+surname = input("Input surname: ")
+year = input("Input year: ")
+city = input("Input city: ")
+email = input("Input email: ")
+phone = input("Input phone: ")
+print (f'{name} {surname} {year} года рождения, проживает в городе{city}, email{email}, телефон:{phone}')
